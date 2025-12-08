@@ -1,0 +1,12 @@
+body {
+  /* Set height to 100% of viewport to see the full effect */
+  min-height: 100vh;
+  margin: 0;
+  
+  /* The Gradient */
+  background: linear-gradient(45deg, #FF512F 0%, #DD2476 50%, #FF512F 100%);
+  
+  /* Text styling for readability */
+  font-family: sans-serif;
+  color: white;
+}
